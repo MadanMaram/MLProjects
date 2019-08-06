@@ -1,2 +1,2 @@
-# Machine-Learning-Projects
+# ML-Projects
 # using Supervised and UnSupervised
