@@ -3,14 +3,14 @@ Supervised learning:-analyzes historical data to predict new outcomes. For examp
 Unsupervised learning:- looks for data patterns by using statistical analysis. For example, identifying customer segments within your company sales data.
 
 # Methods Used
-Inferential Statistics
-Machine Learning
-Data Visualization
-Predictive Modeling
+Inferential Statistics,
+Machine Learning,
+Data Visualization,
+Predictive Modeling,
 etc.
 
 # Technologies
-Python
+Python,
 R
 
 # Project Description
@@ -21,9 +21,9 @@ Data Hungry.
 TThese Are Solvable Problems.)
 
 # Needs of this projects 
-frontend developers
-data exploration/descriptive statistics
-data processing/cleaning
-statistical modeling
-writeup/reporting
+frontend developers,
+data exploration/descriptive statistics,
+data processing/cleaning,
+statistical modeling,
+writeup/reporting,
 etc. 
