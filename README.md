@@ -30,3 +30,13 @@ data processing/cleaning,
 statistical modeling,
 writeup/reporting,
 etc. 
+
+Social Media Links:
+LinkedIn
+
+Twitter
+https://twitter.com/madansaimaram
+
+
+Data Science Webinar Cerification Link
+https://drive.google.com/file/d/1rq5nUutQC7kUu1yFutLJk-B3KUGLqAkn/view?usp=drivesdk
