@@ -32,6 +32,9 @@ writeup/reporting,
 etc. 
 
 Social Media Links:
+Kaggle 
+https://www.kaggle.com/madanmaram
+
 LinkedIn
 https://www.linkedin.com/in/madan-maram-135130166/
 
