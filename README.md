@@ -31,16 +31,3 @@ statistical modeling,
 writeup/reporting,
 etc. 
 
-Social Media Links:
-Kaggle 
-https://www.kaggle.com/madanmaram
-
-LinkedIn
-https://www.linkedin.com/in/madan-maram-135130166/
-
-Twitter
-https://twitter.com/madansaimaram
-
-
-Data Science Webinar Cerification Link
-https://drive.google.com/file/d/1rq5nUutQC7kUu1yFutLJk-B3KUGLqAkn/view?usp=drivesdk
